@@ -6,7 +6,7 @@ body{
     border: 1px solid hsl(215, 32%, 27%);
     background-color: hsl(215, 40%, 20%);
     margin: 7rem auto;
-    max-width: 22rem;
+    max-width: 19rem;
     /* min-width: 19%; */
     height: 80vh;
     padding: .5rem .5rem;
